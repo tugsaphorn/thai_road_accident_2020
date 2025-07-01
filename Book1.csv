@@ -1,0 +1,317 @@
+﻿province,agency,vehicle_type,presumed_cause,accident_type,number_of_vehicles_involved,number_of_fatalities,number_of_injuries,weather_condition,road_description,slope_description
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Chon Buri,department of highways,large truck with trailer,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,0,clear,wide curve,no slope
+Songkhla,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,2,0,0,rainy,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Krabi,department of rural roads,private/passenger car,slippery road,other,1,0,0,rainy,sharp curve,no slope
+Chon Buri,department of highways,large truck with trailer,speeding,rollover/fallen on curved road,1,0,0,clear,wide curve,no slope
+Chiang Mai,department of highways,motorcycle,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,1,rainy,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,0,clear,wide curve,no slope
+Chiang Mai,department of rural roads,4-wheel pickup truck,speeding,other,2,0,0,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,2,clear,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,1,clear,wide curve,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,speeding,other,2,0,0,clear,connecting to public/commercial area,other
+Surat Thani,department of highways,private/passenger car,falling asleep,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Chiang Mai,department of highways,motorcycle,cutting in closely by people/vehicles/animals,rear-end collision,2,0,1,clear,straight road,no slope
+Chiang Mai,department of highways,motorcycle,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Phuket,department of highways,6-wheel truck,slippery road,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Surat Thani,department of highways,large truck with trailer,speeding,collision with obstruction (on road surface),2,1,1,rainy,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,cutting in closely by people/vehicles/animals,collision with obstruction (on road surface),1,0,2,clear,straight road,no slope
+Phangnga,department of highways,private/passenger car,falling asleep,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Songkhla,department of highways,private/passenger car,speeding,rollover/fallen on straight road,2,0,3,rainy,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Chiang Mai,department of highways,motorcycle,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chiang Rai,department of highways,private/passenger car,speeding,side collision,2,0,1,clear,wide curve,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,3,0,2,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,falling asleep,rollover/fallen on straight road,1,0,2,clear,straight road,no slope
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,cutting in closely by people/vehicles/animals,rear-end collision,2,0,0,rainy,straight road,no slope
+Songkhla,department of highways,4-wheel pickup truck,falling asleep,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,0,rainy,wide curve,no slope
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,worn-out/tire blowout,rollover/fallen on straight road,1,0,2,rainy,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Mai,department of highways,motorcycle,speeding,collision with obstruction (on road surface),2,1,0,clear,straight road,no slope
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,1,0,clear,wide curve,slope area
+Songkhla,department of highways,4-wheel pickup truck,running red lights/traffic signals,rollover/fallen on straight road,1,0,0,rainy,other,other
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,0,rainy,wide curve,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,2,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,slippery road,rollover/fallen on curved road,1,0,0,rainy,wide curve,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,loss of control,rear-end collision,2,1,0,clear,other,other
+Kanchanaburi,department of highways,private/passenger car,loss of control,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Kanchanaburi,department of highways,large truck with trailer,loss of control,rear-end collision,2,0,1,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,falling asleep,head-on collision (not overtaking),3,0,1,clear,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,0,rainy,straight road,no slope
+Chiang Mai,department of highways,6-wheel truck,speeding,rollover/fallen on curved road,1,0,2,clear,sharp curve,slope area
+Chon Buri,department of highways,4-wheel pickup truck,speeding,head-on collision (not overtaking),2,0,2,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,falling asleep,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Songkhla,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,other,other
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,head-on collision (not overtaking),2,0,4,clear,wide curve,no slope
+Chiang Mai,department of highways,other,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Phuket,department of highways,private/passenger car,driving under the influence of alcohol,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,2,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,1,1,clear,straight road,no slope
+Surat Thani,department of highways,van,speeding,rear-end collision,2,0,7,rainy,straight road,no slope
+Krabi,department of highways,6-wheel truck,vehicle equipment failure,rollover/fallen on curved road,1,0,0,clear,wide curve,no slope
+Chiang Mai,department of highways,private/passenger car,cutting in closely by people/vehicles/animals,rear-end collision,2,0,0,clear,straight road,no slope
+Chiang Mai,department of rural roads,motorcycle,speeding,other,2,0,1,clear,straight road,no slope
+Songkhla,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,1,rainy,straight road,no slope
+Chiang Mai,department of rural roads,motorcycle,speeding,other,1,0,1,clear,four-way intersection,other
+Chon Buri,department of highways,private/passenger car,falling asleep,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,cutting in closely by people/vehicles/animals,rear-end collision,4,0,0,clear,straight road,no slope
+Prachuap Khiri Khan,department of highways,large truck with trailer,speeding,rollover/fallen on straight road,1,1,1,clear,straight road,no slope
+Phangnga,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,7-10-wheel truck,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Kanchanaburi,department of highways,motorized tricycle,cutting in closely by people/vehicles/animals,rear-end collision,2,0,1,clear,other,other
+Surat Thani,department of highways,7-10-wheel truck,speeding,rollover/fallen on straight road,1,0,1,rainy,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Kanchanaburi,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,1,0,clear,other,other
+Songkhla,department of highways,4-wheel pickup truck,running red lights/traffic signals,collision at intersection corner,2,0,0,rainy,other,other
+Chon Buri,department of highways,large truck with trailer,falling asleep,rear-end collision,2,0,1,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,worn-out/tire blowout,collision with obstruction (on road surface),2,0,0,clear,straight road,no slope
+Chiang Rai,department of highways,6-wheel truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Phangnga,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,3,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,falling asleep,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chiang Mai,department of rural roads,motorcycle,speeding,other,2,3,1,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Krabi,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,2,rainy,connecting to private area,other
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Songkhla,department of highways,other,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Surat Thani,department of highways,private/passenger car,other,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Songkhla,department of highways,7-10-wheel truck,speeding,rear-end collision,2,2,15,clear,straight road,no slope
+Phangnga,department of highways,6-wheel truck,speeding,rollover/fallen on straight road,1,0,2,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,0,rainy,wide curve,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,head-on collision (not overtaking),3,0,4,clear,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,slippery road,rollover/fallen on curved road,1,0,0,rainy,wide curve,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Songkhla,department of highways,private/passenger car,speeding,rear-end collision,2,0,2,clear,other,other
+Krabi,department of highways,private/passenger car,reversing vehicle,collision with obstruction (on road surface),2,0,0,clear,connecting to public/commercial area,other
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,worn-out/tire blowout,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,cutting in closely by people/vehicles/animals,rear-end collision,3,0,0,clear,connecting to public/commercial area,other
+Surat Thani,department of highways,private/passenger car,speeding,rear-end collision,2,0,1,rainy,straight road,no slope
+Chiang Mai,department of highways,motorcycle,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,worn-out/tire blowout,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Songkhla,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Songkhla,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Songkhla,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Surat Thani,department of highways,large truck with trailer,speeding,rollover/fallen on curved road,1,0,2,clear,wide curve,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,speeding,other,1,0,1,rainy,wide curve,no slope
+Chiang Mai,department of highways,other,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Phuket,department of highways,private/passenger car,falling asleep,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,2,clear,straight road,no slope
+Chon Buri,department of highways,6-wheel truck,falling asleep,collision with obstruction (on road surface),1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,1,clear,other,other
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Chon Buri,department of highways,7-10-wheel truck,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,head-on collision (not overtaking),2,0,2,clear,wide curve,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,4,1,0,clear,straight road,no slope
+Songkhla,department of highways,other,speeding,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Krabi,department of highways,private/passenger car,speeding,rollover/fallen on curved road,1,0,0,rainy,wide curve,no slope
+Songkhla,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,2,rainy,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Songkhla,department of highways,4-wheel pickup truck,slippery road,rollover/fallen on straight road,1,0,1,rainy,wide curve,no slope
+Phangnga,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,1,rainy,wide curve,slope area
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,2,clear,straight road,no slope
+Prachuap Khiri Khan,department of highways,large truck with trailer,speeding,rear-end collision,2,1,0,clear,straight road,no slope
+Songkhla,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Surat Thani,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,loss of control,rear-end collision,2,0,1,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,falling asleep,rollover/fallen on curved road,1,0,0,clear,wide curve,no slope
+Kanchanaburi,department of highways,6-wheel truck,loss of control,other,1,0,0,other,wide curve,slope area
+Chon Buri,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Mai,department of highways,large truck with trailer,cutting in closely by people/vehicles/animals,head-on collision (not overtaking),2,0,2,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,worn-out/tire blowout,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,1,clear,wide curve,no slope
+Chiang Rai,department of highways,private/passenger car,speeding,rollover/fallen on curved road,1,0,0,clear,wide curve,no slope
+Surat Thani,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chon Buri,department of highways,7-10-wheel truck,overloaded vehicle,collision with obstruction (on road surface),1,0,1,clear,wide curve,no slope
+Chiang Rai,department of highways,large truck with trailer,speeding,rollover/fallen on curved road,1,0,1,clear,wide curve,no slope
+Prachuap Khiri Khan,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,other,other,other,0,0,0,other,other,other
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,head-on collision (not overtaking),4,0,1,clear,wide curve,slope area
+Songkhla,department of highways,private/passenger car,speeding,rollover/fallen on straight road,2,0,1,other,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,reversing vehicle,collision with obstruction (on road surface),3,0,3,clear,straight road,no slope
+Songkhla,department of highways,other,speeding,rollover/fallen on straight road,1,0,0,clear,other,other
+Surat Thani,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,large truck with trailer,brake/anti-lock brake system failure,rear-end collision,3,0,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,falling asleep,rollover/fallen on straight road,1,0,2,clear,straight road,no slope
+Chon Buri,department of highways,large truck with trailer,speeding,rear-end collision,4,0,0,clear,straight road,no slope
+Chon Buri,department of highways,other,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,3,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,rear-end collision,4,0,1,clear,straight road,no slope
+Songkhla,department of highways,private/passenger car,other,other,1,0,1,clear,wide curve,slope area
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,large truck with trailer,speeding,head-on collision (not overtaking),7,0,6,clear,straight road,no slope
+Phangnga,department of highways,6-wheel truck,speeding,other,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,3,0,0,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,cutting in closely by people/vehicles/animals,rear-end collision,4,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,1,clear,wide curve,no slope
+Songkhla,department of highways,motorcycle,speeding,rear-end collision,2,1,0,clear,other,other
+Chon Buri,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,worn-out/tire blowout,rear-end collision,2,0,0,clear,straight road,no slope
+Songkhla,department of rural roads,private/passenger car,speeding,other,1,1,0,clear,straight road,no slope
+Songkhla,department of highways,6-wheel truck,speeding,rollover/fallen on straight road,1,0,2,clear,straight road,no slope
+Krabi,department of highways,large truck with trailer,falling asleep,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,large truck with trailer,cutting in closely by people/vehicles/animals,rear-end collision,3,0,2,clear,straight road,no slope
+Surat Thani,department of highways,large truck with trailer,speeding,rear-end collision,4,0,3,clear,other,other
+Chon Buri,department of highways,4-wheel pickup truck,cutting in closely by people/vehicles/animals,rollover/fallen on straight road,2,0,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,worn-out/tire blowout,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,motorcycle,speeding,rear-end collision,3,1,2,clear,straight road,no slope
+Chon Buri,department of highways,other,speeding,rear-end collision,0,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,speeding,collision with obstruction (on road surface),1,0,0,clear,other,other
+Songkhla,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,2,clear,straight road,no slope
+Chiang Mai,department of highways,motorcycle,speeding,head-on collision (not overtaking),2,0,1,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,falling asleep,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Phangnga,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,unfamiliarity with the route/unskilled driving,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Mai,department of rural roads,4-wheel pickup truck,speeding,other,2,2,3,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,4,clear,straight road,no slope
+Chon Buri,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,clear,other,other
+Kanchanaburi,department of highways,4-wheel pickup truck,loss of control,rollover/fallen on straight road,1,0,0,other,straight road,no slope
+Chon Buri,department of highways,private/passenger car,falling asleep,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,6-wheel truck,falling asleep,rear-end collision,2,0,1,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Chon Buri,department of highways,large truck with trailer,worn-out/tire blowout,rear-end collision,3,1,0,clear,straight road,no slope
+Chon Buri,department of highways,van,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Kanchanaburi,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,1,0,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,falling asleep,rear-end collision,2,0,1,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,other,1,0,0,clear,wide curve,no slope
+Kanchanaburi,department of highways,private/passenger car,falling asleep,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,other,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Kanchanaburi,department of highways,motorcycle,cutting in closely by people/vehicles/animals,side collision,2,0,1,clear,straight road,no slope
+Surat Thani,department of highways,motorcycle,insufficient light,pedestrian collision,1,0,2,clear,other,other
+Chon Buri,department of highways,private/passenger car,cutting in closely by people/vehicles/animals,rear-end collision,2,0,1,clear,other,other
+Phuket,department of highways,private/passenger car,speeding,rear-end collision,4,1,0,clear,straight road,no slope
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,worn-out/tire blowout,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rear-end collision,3,0,0,clear,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Phuket,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Songkhla,department of highways,private/passenger car,falling asleep,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Surat Thani,department of highways,motorcycle,speeding,rear-end collision,2,0,3,clear,other,other
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,speeding,other,3,0,1,clear,connecting to public/commercial area,other
+Chiang Rai,department of highways,4-wheel pickup truck,slippery road,rollover/fallen on curved road,1,0,1,rainy,wide curve,no slope
+Kanchanaburi,department of highways,motorcycle,speeding,rear-end collision,2,0,4,clear,straight road,no slope
+Chiang Mai,department of highways,4-wheel pickup truck,unfamiliarity with the route/unskilled driving,pedestrian collision,1,0,2,clear,wide curve,slope area
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,worn-out/tire blowout,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,slippery road,rollover/fallen on curved road,1,0,0,rainy,other,other
+Surat Thani,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Surat Thani,department of highways,private/passenger car,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,3,clear,straight road,no slope
+Songkhla,department of highways,private/passenger car,speeding,rear-end collision,2,0,1,clear,other,other
+Chiang Rai,department of highways,6-wheel truck,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,cutting in closely by people/vehicles/animals,rear-end collision,2,1,0,clear,straight road,no slope
+Chiang Rai,department of highways,motorcycle,reversing vehicle,collision with obstruction (on road surface),2,1,1,other,straight road,no slope
+Krabi,department of rural roads,motorcycle,medical condition,other,1,1,0,clear,wide curve,no slope
+Surat Thani,department of highways,motorcycle,insufficient light,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,2,clear,straight road,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,collision with obstruction (on road surface),2,0,0,clear,straight road,no slope
+Surat Thani,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,cutting in closely by people/vehicles/animals,rear-end collision,2,0,0,clear,other,other
+Chiang Mai,department of highways,private/passenger car,speeding,head-on collision (not overtaking),2,0,1,clear,wide curve,no slope
+Kanchanaburi,department of highways,motorcycle,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Chon Buri,department of highways,motorcycle,driving under the influence of alcohol,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chiang Mai,department of rural roads,motorcycle,speeding,other,1,0,1,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,3,clear,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on curved road,1,0,0,clear,wide curve,no slope
+Prachuap Khiri Khan,department of highways,motorcycle,driving under the influence of alcohol,rollover/fallen on straight road,1,1,0,clear,straight road,no slope
+Chon Buri,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Phuket,department of highways,motorcycle,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Chiang Mai,department of highways,motorcycle,falling asleep,rollover/fallen on straight road,1,1,0,clear,straight road,no slope
+Chiang Mai,department of highways,motorcycle,speeding,rollover/fallen on curved road,1,0,1,clear,wide curve,no slope
+Phuket,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Mai,department of rural roads,motorcycle,running red lights/traffic signals,other,2,0,2,clear,four-way intersection,other
+Chiang Rai,department of highways,motorcycle,illegal overtaking,rear-end collision,2,0,1,clear,straight road,no slope
+Songkhla,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,2,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,cutting in closely by people/vehicles/animals,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Kanchanaburi,department of rural roads,motorcycle,tailgating,other,2,0,1,clear,t-intersection,other
+Chon Buri,department of highways,private/passenger car,worn-out/tire blowout,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,speeding,rear-end collision,3,0,2,clear,other,other
+Chiang Rai,department of highways,4-wheel pickup truck,failure to yield/signal,rear-end collision,6,0,0,clear,straight road,no slope
+Chiang Mai,department of rural roads,motorcycle,speeding,other,2,0,1,clear,wide curve,no slope
+Chiang Rai,department of highways,bicycle,speeding,rear-end collision,2,1,0,clear,other,other
+Surat Thani,department of highways,motorcycle,speeding,rear-end collision,2,0,1,clear,connecting to public/commercial area,other
+Chiang Rai,department of highways,private/passenger car,speeding,rollover/fallen on curved road,1,0,1,clear,wide curve,no slope
+Prachuap Khiri Khan,department of highways,motorcycle,speeding,other,1,0,1,clear,other,other
+Prachuap Khiri Khan,department of highways,4-wheel pickup truck,worn-out/tire blowout,rollover/fallen on straight road,1,0,2,clear,straight road,no slope
+Chiang Mai,department of highways,motorcycle,cutting in closely by people/vehicles/animals,collision at intersection corner,2,0,1,clear,other,other
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,head-on collision (not overtaking),2,0,2,clear,wide curve,no slope
+Kanchanaburi,department of rural roads,motorcycle,driving under the influence of alcohol,other,1,0,1,clear,straight road,no slope
+Chiang Mai,department of highways,motorcycle,cutting in closely by people/vehicles/animals,rear-end collision,2,0,1,clear,other,other
+Chiang Rai,department of highways,private/passenger car,cutting in closely by people/vehicles/animals,rear-end collision,2,1,0,clear,straight road,no slope
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Chon Buri,department of highways,other,speeding,pedestrian collision,1,1,0,clear,straight road,no slope
+Chiang Rai,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,other,other
+Phuket,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chon Buri,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Mai,department of rural roads,4-wheel pickup truck,speeding,other,1,0,1,clear,straight road,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Phuket,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chiang Mai,department of highways,private/passenger car,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,1,0,clear,straight road,no slope
+Surat Thani,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Phuket,department of highways,motorcycle,speeding,rear-end collision,2,1,0,clear,straight road,no slope
+Chiang Rai,department of highways,private/passenger car,speeding,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Chiang Rai,department of highways,motorcycle,speeding,rollover/fallen on straight road,1,0,1,foggy,straight road,no slope
+Chiang Mai,department of highways,motorcycle,falling asleep,rollover/fallen on straight road,1,1,0,clear,straight road,no slope
+Krabi,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,1,0,clear,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,unfamiliarity with the route/unskilled driving,other,2,0,0,clear,connecting to private area,other
+Kanchanaburi,department of highways,motorcycle,cutting in closely by people/vehicles/animals,rear-end collision,2,0,2,clear,straight road,no slope
+Kanchanaburi,department of highways,motorcycle,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Prachuap Khiri Khan,department of highways,private/passenger car,illegal overtaking,rear-end collision,2,0,0,clear,other,other
+Surat Thani,department of highways,4-wheel pickup truck,speeding,head-on collision (not overtaking),2,0,0,clear,straight road,no slope
+Chiang Rai,department of highways,motorcycle,cutting in closely by people/vehicles/animals,collision at intersection corner,2,0,2,clear,other,other
+Chiang Mai,department of highways,motorcycle,unfamiliarity with the route/unskilled driving,rollover/fallen on curved road,1,0,1,clear,wide curve,no slope
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,0,clear,straight road,no slope
+Phuket,department of highways,motorcycle,speeding,rear-end collision,2,0,2,clear,straight road,no slope
+Kanchanaburi,department of highways,private/passenger car,speeding,head-on collision (not overtaking),2,0,2,clear,straight road,no slope
+Kanchanaburi,department of highways,motorcycle,speeding,rollover/fallen on curved road,1,0,1,clear,wide curve,no slope
+Kanchanaburi,department of highways,4-wheel pickup truck,unfamiliarity with the route/unskilled driving,rear-end collision,2,0,2,clear,connecting to public/commercial area,other
+Chon Buri,department of highways,private/passenger car,speeding,rear-end collision,2,0,1,clear,straight road,no slope
+Chiang Mai,department of rural roads,motorcycle,speeding,other,1,0,1,clear,y-intersection,other
+Chiang Mai,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,clear,straight road,no slope
+Chiang Rai,department of highways,4-wheel pickup truck,cutting in closely by people/vehicles/animals,rear-end collision,2,2,0,clear,straight road,no slope
+Surat Thani,department of highways,private/passenger car,speeding,rear-end collision,2,1,3,clear,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,3,clear,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,speeding,rollover/fallen on straight road,1,0,0,rainy,straight road,no slope
+Chiang Mai,department of highways,motorcycle,driving under the influence of alcohol,rollover/fallen on straight road,1,0,1,clear,straight road,no slope
+Songkhla,department of highways,private/passenger car,speeding,head-on collision (not overtaking),2,0,2,clear,straight road,no slope
+Surat Thani,department of highways,4-wheel pickup truck,speeding,pedestrian collision,1,2,1,clear,straight road,no slope
+Chon Buri,department of highways,motorcycle,unfamiliarity with the route/unskilled driving,other,1,0,2,clear,straight road,no slope
+Chiang Rai,department of highways,private/passenger car,speeding,rear-end collision,2,3,0,clear,straight road,no slope
